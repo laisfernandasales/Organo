@@ -1,1 +1,1 @@
-Projeto em desenvolvimento por meio da plaforma Alura
+Projeto em desenvolvimento por meio da plataforma Alura
